@@ -13,3 +13,5 @@ download here
 https://www.kaggle.com/francispython/b-depression
 
 you can change to try another dataset but the input of network depends on variables in dataset (column) 
+for other https://www.kaggle.com/aviskumar/depression-dataset
+          https://www.kaggle.com/diegobabativa/depression
